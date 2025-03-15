@@ -18,6 +18,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Discord-@ray.com-blue?style=flat-square&logo=discord"></a>
+<a href="https://discordapp.com/users/947246379233869874/"><img alt="Website" src="https://img.shields.io/badge/Discord-@ray.com-blue?style=flat-square&logo=discord"></a>
 </p>
 
